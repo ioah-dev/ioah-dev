@@ -1,5 +1,6 @@
-## Hi there 👋
+## Welcome! 👋
 
+I hope you find interesting the projects I am working on. I am open to suggestions and afvice of any kind related to coding!
 <!--
 **ioah-dev/ioah-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
